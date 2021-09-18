@@ -11,6 +11,8 @@
 		B9AC481326F596FC00C6C11A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9AC481226F596FC00C6C11A /* ContentView.swift */; };
 		B9AC481526F596FD00C6C11A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9AC481426F596FD00C6C11A /* Assets.xcassets */; };
 		B9AC481826F596FD00C6C11A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9AC481726F596FD00C6C11A /* Preview Assets.xcassets */; };
+		B9AC482026F5999D00C6C11A /* ColorSliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9AC481F26F5999D00C6C11A /* ColorSliderView.swift */; };
+		B9AC482226F59A9200C6C11A /* ColorSwatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9AC482126F59A9200C6C11A /* ColorSwatch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		B9AC481426F596FD00C6C11A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B9AC481726F596FD00C6C11A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B9AC481926F596FD00C6C11A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B9AC481F26F5999D00C6C11A /* ColorSliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSliderView.swift; sourceTree = "<group>"; };
+		B9AC482126F59A9200C6C11A /* ColorSwatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSwatch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				B9AC481026F596FC00C6C11A /* SimpleSwiftUIAppApp.swift */,
 				B9AC481226F596FC00C6C11A /* ContentView.swift */,
+				B9AC481F26F5999D00C6C11A /* ColorSliderView.swift */,
+				B9AC482126F59A9200C6C11A /* ColorSwatch.swift */,
 				B9AC481426F596FD00C6C11A /* Assets.xcassets */,
 				B9AC481926F596FD00C6C11A /* Info.plist */,
 				B9AC481626F596FD00C6C11A /* Preview Content */,
@@ -139,7 +145,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9AC481326F596FC00C6C11A /* ContentView.swift in Sources */,
+				B9AC482226F59A9200C6C11A /* ColorSwatch.swift in Sources */,
 				B9AC481126F596FC00C6C11A /* SimpleSwiftUIAppApp.swift in Sources */,
+				B9AC482026F5999D00C6C11A /* ColorSliderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
