@@ -24,6 +24,7 @@
 		B9AC481926F596FD00C6C11A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B9AC481F26F5999D00C6C11A /* ColorSliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSliderView.swift; sourceTree = "<group>"; };
 		B9AC482126F59A9200C6C11A /* ColorSwatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSwatch.swift; sourceTree = "<group>"; };
+		B9AC482326F5A4FF00C6C11A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		B9AC480426F596FC00C6C11A = {
 			isa = PBXGroup;
 			children = (
+				B9AC482326F5A4FF00C6C11A /* README.md */,
 				B9AC480F26F596FC00C6C11A /* SimpleSwiftUIApp */,
 				B9AC480E26F596FC00C6C11A /* Products */,
 			);
